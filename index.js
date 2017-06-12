@@ -1,7 +1,6 @@
 'use strict'
 const crypto = require('crypto')
 const bindings = require('bindings')('argon2')
-const Promise = require('any-promise')
 
 const argon2d = 0
 const argon2i = 1
