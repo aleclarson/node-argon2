@@ -27,7 +27,6 @@
   },
   "homepage": "https://github.com/ranisalt/node-argon2#readme",
   "dependencies": {
-    "bindings": "^1.2.1",
     "nan": "^2.4.0"
   },
   "devDependencies": {
